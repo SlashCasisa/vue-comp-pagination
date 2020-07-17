@@ -1,0 +1,33 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1594795853767'); /* IE9 */
+  src: url('iconfont.eot?t=1594795853767#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAO8AAsAAAAACOwAAANwAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDIgqFHIN1ATYCJAMUCwwABCAFhG0HRxtwBxHVmz3I/lbcuCyuvYAHN5FyPai7iobS0jQ8ZfzviwZXQQG9zuKpkMIJGoyS+/sbgURrWGYPuiVWQIrQAipgBehaBcyyQrJiC+QJVfsvDE1e25p3I5nnt1BaJXkaPck75doFmh8wMHiAB9CsAODh2/l+/esuDjXRJIhGMpv41Cf7+7m9iSWTtGZIIy5CI3E/FFRC/UckTjzhHVKjVDpAitkdbMABa6oJJLrQG3M2BDkbNVl0s6jG/+82TlpOL80DG0P9cEFTL2GiehtBpbTdwTHTpXiejTbUiVUnb7SmKB3QwCKSW/hf5N1/Ua/15mQQLp2GACeBosjMhgg0E0wSIFe3HIOuyZkjqUITds/KJA8oXe4JwEL6+/KDQkOxKphZeAYzSPv66xqDJY8RYOx3HoAFDBAFTMju1Vcwcn8Ug5Mz2BQHbCah9rL+b4pq012ujX5QjPF/HtJAsguANBow8SWGZCh8tckw8NWhU0GXMp8h2QLgtFNwH+BdK8KBVghN0kMpGe7NNBd/2Fz+f9+1NsOk0fJjw8zenvs+r0af3+L6fTGXA/+rEmx9/ptrs5+UYHoHSqced7k6SvNNEZ/LLQa4WSdNXHjZrLKn2bv8RB/98XnnNrp37/qc7DvHH2SQZQ/qvP9p5jBCq7+a+72PkAKb78iKtpy7hNzb0BUq70cOarP6bB+linnKzs9tggaFDl1YWvh9Xb91W+bt4upZ5RjiEo+sqZ7Batg3rDQUOgHC8BT8b0xPicFnzCNPfyFAkNJ7RXU/nHYCuO+dLYjtf0hhfgKagmL8b8bMHNNlgcJKOzOk24mWBhpvUooTKuBPpwN4edpH7MuDQvMtQXEQoDVol0GRJjYKLM6SwKalgpNIueudeWtmkOwgwhgB4WELFDenYPBwjTSxj2Dx8wM2jzDASXmoOzqTh9G1xoJnxRtcXiG4ckqBSltZ6ha9x/gsVVaKe0DJAxfYhtUMzTFF2WNO/uQ5qgQknMCMnIdxzJAJh3hVw1fNRqZJfQ8yrpwUWowFz4o3cHkFwZVTittrq/XzW/Qe47OMZHWoH1DyoHdgM1gzkHN+OivrXfrnT55Dlfg4Ek7AjGoxRj+DrH9YiFc1+Cu82YjJCtFcvnG+MHnHXYATcLQlCGJIIIUMVJqQtCqB52stltnVls4uFAA=') format('woff2'),
+  url('iconfont.woff?t=1594795853767') format('woff'),
+  url('iconfont.ttf?t=1594795853767') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1594795853767#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-left:before {
+  content: "\e62d";
+}
+
+.icon-right:before {
+  content: "\e60f";
+}
+
+.icon-right1:before {
+  content: "\e62b";
+}
+
+.icon-left1:before {
+  content: "\e62c";
+}
+
